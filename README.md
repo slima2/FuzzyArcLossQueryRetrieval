@@ -1,5 +1,5 @@
 This is the repository for the paper titled: Comparative Analysis of Transformer-Based Models with Marginal Loss Functions for Ontology-Based Query Retrieval", Lima S, Portmann E, Teran L., Human IST institute, University of Fribourgh, 2025
-![SLIMA lung cancer subgraph](https://github.com/user-attachments/assets/70fb3283-77d3-4d27-a685-80e8406586d4)
+![image](https://github.com/user-attachments/assets/f934d1cf-26a4-4409-b45d-ef4d66bbafee)
 
 
 Despite the emergence of advanced language models,
